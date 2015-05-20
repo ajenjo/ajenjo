@@ -12,7 +12,7 @@ desarrollo.
 Prensa
 ------
 
-Nos gusta usar el logo ![ajenjo logo](press/logoX32.png), para dar a conocer
+Nos gusta usar el logo ![ajenjo logo](press/IsotipoX32.png), para dar a conocer
 este software al mundo.
 
 [Leer mas.](press/README.md)
