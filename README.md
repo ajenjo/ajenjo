@@ -17,7 +17,7 @@ Publicado para el 8/6/15.
 Desarrolladores
 ---------------
 
-Ayuda en el codigo fuente ingresando a [ajenjo/backend-defnition](https://github.com/ajenjo/backend-defnition).
+Ayuda en el codigo fuente ingresando a [ajenjo/backend-definition](https://github.com/ajenjo/backend-definition).
 
 
 Soporte para otras plataformas
