@@ -8,6 +8,14 @@ Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service
 basado en la integración con las políticas de software durante la fase de
 desarrollo.
 
+Versiones
+---------
+
+### Version 1.0
+
+[8/6/15].
+
+
 
 Prensa
 ------
