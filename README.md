@@ -1,7 +1,5 @@
-Ajenjo Service
+Ajenjo Service [![Join the chat at https://gitter.im/ajenjo/ajenjo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajenjo/ajenjo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ==============
-
-[![Join the chat at https://gitter.im/ajenjo/ajenjo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajenjo/ajenjo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Es un software de código abierto que permite un control de sesiones descentralizada al sistema basado en usuarios, grupos y permisos.
 
@@ -29,6 +27,14 @@ Visita los complementos compatibles con:
 
  - [PHP](https://github.com/ajenjo/ajenjo-php)
 
+
+
+Comunidad
+---------
+
+Ayuda y contribuye a este proyecto en:
+
+ - [![Join the chat at https://gitter.im/ajenjo/ajenjo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajenjo/ajenjo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 Prensa
