@@ -25,7 +25,7 @@ Soporte para otras plataformas
 
 Visita los complementos compatibles con:
 
- - (PHP)[https://github.com/ajenjo/ajenjo-php]
+ - [PHP](https://github.com/ajenjo/ajenjo-php)
 
 
 
