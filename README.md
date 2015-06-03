@@ -13,7 +13,7 @@ Versiones
 
 ### Version 1.0
 
-[8/6/15].
+Publicado para el 8/6/15.
 
 
 
