@@ -8,7 +8,7 @@ Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service bas
 Versiones
 ---------
 
-### Versión 1.0
+### Versión 1.0 <span style="color:green">[8/6/15]</span>
 
 Publicado para el 8/6/15.
 
