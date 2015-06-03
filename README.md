@@ -1,12 +1,9 @@
 Ajenjo Service
 ==============
 
-Es un software de código abierto que brinda protección al sistema basado en
-usuarios, grupos y permisos.
+Es un software de código abierto que permite un control de sesiones desentralizada al sistema basado en usuarios, grupos y permisos.
 
-Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service
-basado en la integración con las políticas de software durante la fase de
-desarrollo.
+Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service basado en la integración con las políticas de software durante la fase de desarrollo.
 
 Versiones
 ---------
