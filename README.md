@@ -5,6 +5,9 @@ Es un software de código abierto que permite un control de sesiones descentrali
 
 Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service basado en la integración con las políticas de software durante la fase de desarrollo.
 
+[![](screenshots/EXAMPLE SOURCE.png)](screenshots/EXAMPLE SOURCE.svg)
+
+
 Versiones
 ---------
 
