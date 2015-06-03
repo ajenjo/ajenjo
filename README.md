@@ -40,7 +40,7 @@ Ayuda y contribuye a este proyecto en:
 Prensa
 ------
 
-Nos gusta usar el logo ![ajenjo logo](press/IsotipoX32.png), para dar a conocer
+Nos gusta usar el isotipo ![ajenjo logo](press/IsotipoX32.png), para dar a conocer
 este software al mundo.
 
 [Leer más.](press/README.md)
