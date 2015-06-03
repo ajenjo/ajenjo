@@ -17,6 +17,21 @@ Publicado para el 8/6/15.
 
 
 
+Desarrolladores
+---------------
+
+Ayuda en el codigo fuente ingresando a [ajenjo/backend-defnition](https://github.com/ajenjo/backend-defnition).
+
+
+Soporte para otras plataformas
+------------------------------
+
+Visita los complementos compatibles con:
+
+ - (PHP)[https://github.com/ajenjo/ajenjo-php]
+
+
+
 Prensa
 ------
 
