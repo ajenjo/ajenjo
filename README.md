@@ -1,6 +1,9 @@
 Ajenjo Service [![Join the chat at https://gitter.im/ajenjo/ajenjo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajenjo/ajenjo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ==============
 
+> **Nuestra mision es hacer las cesiones censillas.**
+
+
 Es un software de código abierto que permite un control de sesiones descentralizada al sistema basado en usuarios, grupos y permisos.
 
 Protegiendo los distintos servicios del sistema que incluya a Ajenjo Service basado en la integración con las políticas de software durante la fase de desarrollo.
